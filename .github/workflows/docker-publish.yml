@@ -23,7 +23,7 @@ env:
 jobs:
 
   test:
-    uses: vorobii-vitalii/pythonapp-repo-sample/blob/main/.github/workflows/python-app.yml@main
+    uses: vorobii-vitalii/pythonapp-repo-sample/.github/workflows/python-app.yml@main
     permissions:
       contents: read
 
